@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact Us</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body id="contact">
+    <ul>
+        <li><a href="contact.html">Contact Us</a></li>
+        <li><a href="products.html">Products</a></li>
+        <li><a href="index.html">Home</a></li>
+    </ul>
+
+    <h3>Contact Us</h3>
+
+    <form action="thankyou.html" target="_blank" method="post" autocomplete="on" novalidate>
+        <label for="fname">First Name:</label>
+        <input type="text" id="fname" name="fname" placeholder="Enter your first name"><br><br>
+
+        <label for="lname">Last Name:</label>
+        <input type="text" id="lname" name="lname" placeholder="Enter your last name"><br><br>
+
+        <label for="gender">Gender:</label>
+        <label for="female">Female</label>
+        <input type="radio" id="female" name="gender">
+        <label for="male">Male</label>
+        <input type="radio" id="male" name="gender"><br><br>
+
+        <label for="favpastry">Select Your Favourite Pastry</label>
+        <input list="favpastry" name="favpastry" placeholder="Select an option">
+        <datalist id="favpastry">
+            <option value="Muffins" >
+            <option value="Cakes">
+            <option value="Cookies">
+            <option value="Pastries">
+        </datalist><br><br>
+
+        <label for="message">Your Message:</label><br>
+        <textarea name="message" rows="10" cols="80" placeholder="Let us know how can assist you..."></textarea><br><br>
+
+        <fieldset>
+            <legend>Pastry Shop Feedback</legend>
+            <label for="favitem">Your Favorite Items in Our Menu:</label>
+            <input type="text" id="favitem" name="favitem" placeholder="E.g. Chocolate Cake"><br><br>
+
+            <label for="rate">Rate Your Last Visit(1 to 5):</label>
+            <select name="rate" id="rate">
+                <option value="poor">1-Poor</option>
+                <option value="week">2-Weak</option>
+                <option value="good">3-Good</option>
+                <option value="very good">4-Very Good</option>
+                <option value="excellent">5-Excellent</option>
+            </select><br>
+        </fieldset><br>
+
+        <input class="one" type="submit" value="Submit">
+        <input class="one" type="reset" value="Reset"><br><br>
+    </form>
+
+    
+    <footer>
+        &copy; 2025 Pastry Shop. All rights reserved.
+    </footer>
+
+</body>
+</html>
