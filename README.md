@@ -11,17 +11,6 @@ The website consists of three main pages:
 
 The website is designed to be visually appealing, functional, and styled according to the given color scheme and design guidelines.
 
----
-
-## 📂 Project Structure
-project_<student-number>/
-│
-├── index.html (Home Page)
-├── products.html (Products Page)
-├── contact.html (Contact Us Page)
-├── thankyou.html (Optional Thank You Page)
-├── style.css (Main CSS file)
-└── resources/ (Images and text provided)
 
 ---
 
@@ -111,5 +100,4 @@ project_<student-number>/
 This project was developed individually.
 
 **Dilsha Kalpani.**
-**Computer Science Undergraduate.**
-**University of Kelaniya**
+
