@@ -12,7 +12,6 @@ The website consists of three main pages:
 The website is designed to be visually appealing, functional, and styled according to the given color scheme and design guidelines.
 
 
----
 
 ## 🏠 Home Page (index.html)
 
@@ -28,7 +27,6 @@ The website is designed to be visually appealing, functional, and styled accordi
 - Text Color: `#5f4b3a` (Chocolate Brown)
 - Footer: `#333333` (Dark Gray)
 
----
 
 ## 🛍 Products Page (products.html)
 
@@ -48,7 +46,6 @@ The website is designed to be visually appealing, functional, and styled accordi
 - Table Rows: `#f2e2d2`
 - Text: `#5f4b3a`
 
----
 
 ## 📞 Contact Us Page (contact.html)
 
@@ -70,7 +67,6 @@ The website is designed to be visually appealing, functional, and styled accordi
 - Button: `#ffbb33`
 - Text: `#5f4b3a`
 
----
 
 ## 🎨 CSS Styling (style.css)
 
@@ -80,14 +76,12 @@ The website is designed to be visually appealing, functional, and styled accordi
 - Consistent bakery-themed color palette
 - Clean layout and organized structure
 
----
 
 ## 💻 Technologies Used
 
 - HTML5
 - CSS3
 
----
 
 ## 🚀 How to Run the Project
 
@@ -96,7 +90,6 @@ The website is designed to be visually appealing, functional, and styled accordi
 3. Double-click `index.html` to open in a web browser.
 4. Navigate through the website using the navigation bar.
 
----
 This project was developed individually.
 
 **Dilsha Kalpani.**
